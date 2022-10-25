@@ -13,3 +13,5 @@
 ### 4. [Sample Website using Flask](https://github.com/kannanjayachandran/Python/tree/main/3.%20PROJECTS/Website%20Using%20Flask)
 
 ### 5. [Pythonic](https://github.com/kannanjayachandran/Python/tree/main/3.%20PROJECTS/Pythonic)
+
+### 6. [Hand Written text Recognizer from Scratch](https://github.com/kannanjayachandran/ML-Models/tree/main/Handwriting%20Recognizer)
