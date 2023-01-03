@@ -4,7 +4,7 @@
 
 ## Projects
 
-### 1. [Interactive Dictionary using Python](https://github.com/kannanjayachandran/Python/tree/main/3.%20PROJECTS/Interactive%20Dictionary)
+### 1. [Hand Written text Recognizer from Scratch](https://github.com/kannanjayachandran/ML-Models/tree/main/Handwriting%20Recognizer)
 
 ### 2. [Automated Jupyter Notebook creater using Python](https://github.com/kannanjayachandran/Python/tree/main/3.%20PROJECTS/Jupyter%20Notebook%20creator)
 
@@ -14,7 +14,7 @@
 
 ### 5. [Pythonic](https://github.com/kannanjayachandran/Python/tree/main/3.%20PROJECTS/Pythonic)
 
-### 6. [Hand Written text Recognizer from Scratch](https://github.com/kannanjayachandran/ML-Models/tree/main/Handwriting%20Recognizer)
+### 6. [Interactive Dictionary using Python](https://github.com/kannanjayachandran/Python/tree/main/3.%20PROJECTS/Interactive%20Dictionary)
 
 ### 7. [Parallel Computing using Cuda](https://github.com/kannanjayachandran/ML-Models/tree/main/Cuda%20Performance)
 
